@@ -208,5 +208,5 @@ if first_innings_score > second_innings_score :
 elif second_innings_score > first_innings_score :
 	print "Team 2 wins!"
 else :
-	print "Match Tied."
+	print "Match Tied ."
 
